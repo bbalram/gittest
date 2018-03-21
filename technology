@@ -3,3 +3,6 @@ php
 .net
 elb
 autoscaling
+route 53 
+bucket 
+ami
